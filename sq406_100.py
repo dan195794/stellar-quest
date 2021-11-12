@@ -8,7 +8,7 @@ import requests
 
 # 1. Load Keys
 server = Server("https://horizon-testnet.stellar.org")
-quest_account_pub_key = ("GC5LFM5MW343QCK4ZYVHHVQB6G3Q6YOZQTXBMXMCKM5AXZSJ6M5F7VUK")
+quest_account_pub_key = ("YOUR KEY")
 
 # 2. Create Transaction
 
