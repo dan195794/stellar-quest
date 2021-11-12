@@ -9,7 +9,7 @@ import requests
 # 1. Load Keys
 server = Server("https://horizon-testnet.stellar.org")
 key = input("Enter your Key: ")
-quest_account_pub_key = ("key")
+quest_account_pub_key = (key)
 
 # 2. Create Transaction
 print("You can claim 10 Balances for every Sq")
